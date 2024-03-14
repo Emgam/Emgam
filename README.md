@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emgam
 - 👀 I’m interested in .programming
-- 🌱 I’m currently learning ...comuputer science 
+- 🌱 I’m currently learning ...computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -4,7 +4,7 @@
 - 🌱 I’m currently expanding my knowledge in computer science, specializing in software engineering and information systems.
 - 💼 I hold a license in Computer Science with a specialization in Software Engineering and Information Systems.
 - 💞️ I’m looking to collaborate on exciting web development projects, data science initiatives, and innovative software solutions.
-- 📫 You can reach me via [LinkedIn](linkedin.com/in/emna-gammoudi-53b218224) or email me at [your-email@example.com](gammoudiemna1@gmail.com).
+- 📫 You can reach me via [LinkedIn](linkedin.com/in/emna-gammoudi-53b218224) or email me at [gammoudiemna1@gmail.com](gammoudiemna1@gmail.com).
 
 ### About Me
 
@@ -25,7 +25,7 @@ I am a dedicated and enthusiastic professional with a strong background in compu
 
 ### Let's Connect
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile-url) or reach out via email at [your-email@example.com](mailto:your-email@example.com). I am always open to discussing new projects, collaborations, and opportunities to learn and grow.
+Feel free to connect with me on [LinkedIn](linkedin.com/in/emna-gammoudi-53b218224) or reach out via email at [gammoudiemna1@gmail.com](gammoudiemna1@gmail.com). I am always open to discussing new projects, collaborations, and opportunities to learn and grow.
 
 
 <!---
